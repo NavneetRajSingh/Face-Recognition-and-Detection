@@ -12,6 +12,6 @@ Tester Python File: A Python script is provided to test the face recognition mod
 Videotesting Python File: This Python script enables real-time player detection in video streams.
 
 <p align="center">
-  <img src="OutputImage1.png" width="300" />
-  <img src="OutputImage2.png" width="300" />
+  <img src="OutputImage/OutputImage1.png" width="300" />
+  <img src="OutputImage/OutputImage2.png" width="300" />
 </p>
