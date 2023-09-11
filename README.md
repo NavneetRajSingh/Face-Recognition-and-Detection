@@ -6,10 +6,10 @@ Key Features
 
 The project includes the following key components:
 
-Training Images: A curated dataset of images featuring Messi and Ronaldo for training purposes.
-Resizing and Preprocessing: Images undergo preprocessing steps to optimize them for efficient processing.
-Tester Python File: A Python script is provided to test the face recognition model on random images.
-Videotesting Python File: This Python script enables real-time player detection in video streams.
+<br>Training Images: A curated dataset of images featuring Messi and Ronaldo for training purposes.</br>
+<br>Resizing and Preprocessing: Images undergo preprocessing steps to optimize them for efficient processing.</br>
+<br>Tester Python File: A Python script is provided to test the face recognition model on random images.</br>
+<br>Videotesting Python File: This Python script enables real-time player detection in video streams.</br>
 
 
 **<u>Tester.py Results</u>**
