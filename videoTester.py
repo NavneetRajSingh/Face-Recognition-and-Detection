@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import faceRecognition as fr
 
-
+#LBPHFaceRecognizer = Local Binary Patterns Histogram Face Recognizer
 face_recognizer = cv2.face.LBPHFaceRecognizer_create()
 face_recognizer.read('trainingData.yml')
 name = {0 : "Messi",1 : "Ronaldo"}
